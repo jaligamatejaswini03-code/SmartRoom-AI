@@ -1,0 +1,6 @@
+{
+  "name": "SmartRoom AI – Generative Interior Design & Room Visualization",
+  "description": "Design your dream space with Generative AI: personalized interior design plans, photorealistic room visualizations, furniture & lighting recommendations, budget optimization, and AI design assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
